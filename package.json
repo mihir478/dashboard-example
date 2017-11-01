@@ -1,0 +1,10 @@
+{
+  "name": "dashboard-example",
+  "version": "1.0.0",
+  "description": "medium story example",
+  "main": "index.js",
+  "repository": "https://github.com/mihir478/dashboard-example.git",
+  "author": "Mihir Sanghavi",
+  "license": "MIT",
+  "private": false
+}
